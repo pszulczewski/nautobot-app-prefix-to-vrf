@@ -1,0 +1,26 @@
+{
+    "cookiecutter": {
+        "codeowner_github_usernames": "",
+        "full_name": "Citi",
+        "email": "someone@no-domain.com",
+        "github_org": "pszulczewski",
+        "app_name": "prefix_to_vrf",
+        "verbose_name": "Prefix To VRF",
+        "app_slug": "prefix-to-vrf",
+        "project_slug": "nautobot-app-prefix-to-vrf",
+        "repo_url": "https://github.com/pszulczewski/nautobot-app-prefix-to-vrf",
+        "base_url": "prefix-to-vrf",
+        "min_nautobot_version": "2.1.0",
+        "max_nautobot_version": "2.9999",
+        "camel_name": "PrefixToVrf",
+        "project_short_description": "Prefix To VRF",
+        "model_class_name": "PrefixToVrf",
+        "open_source_license": "Not open source",
+        "docs_base_url": "https://docs.nautobot.com",
+        "docs_app_url": "https://docs.nautobot.com/projects/prefix-to-vrf/en/latest",
+        "_template": "https://github.com/nautobot/cookiecutter-nautobot-app",
+        "_output_dir": "/Users/patryk/projects/outputs",
+        "_repo_dir": "/Users/patryk/.cookiecutters/cookiecutter-nautobot-app/nautobot-app",
+        "_checkout": null
+    }
+}
